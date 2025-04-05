@@ -46,11 +46,9 @@
 
 - 🥇 Winner – **Webethon 2023** (Website in 8 hrs)  
 - 🎨 1st Prize in Drawing (2016) & Sketching (2018)  
-- 🧑‍🎓 Research Paper – *Role of SHGs in Rural Women Development*  
 - 🌍 Volunteered – MBNR Eco Club  
 - 💼 Cultural Committee – President  
 - 🖥️ CSI Design Team – Head  
-- 🛡️ Cyber Security Club – Member  
 
 ---
 
@@ -61,7 +59,6 @@
 - ☁️ Cloud Computing (Firebase, GCP)  
 - 🔍 Machine Learning Models  
 - 🧩 Streamlit for Data Science Apps  
-- 💻 Web Development (HTML, CSS, JavaScript)
 
 ---
 
